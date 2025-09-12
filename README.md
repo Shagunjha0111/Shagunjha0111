@@ -39,7 +39,7 @@ A machine learning model to predict laptop prices using **Random Forest Regresso
 A security tool to scan JavaScript projects for common vulnerabilities.  
 *Tech:* Python, Regex, Security Analysis  
 
-🔹 [**BreakoutAI Email Extractor**](https://github.com/Shagunjha0111/BreakoutAiAssesment)  
+🔹 [**BreakoutAI Email Extractor**](https://github.com/Shagunjha0111/BreakoutAiAssesment1)  
 A Streamlit app using AI APIs to extract company emails from data sources.  
 *Tech:* Python, Streamlit, HuggingFace API  
 
